@@ -2,7 +2,7 @@
 categories = ["Research"]
 date = 2020-05-03T22:00:00Z
 description = "Porn kills brain"
-image = "/images/examplesite/static/images/pensive-man-leaning-on-white-table-3777553.jpg"
+image = "/images/books-3733892_640.jpg"
 tags = ["research"]
 title = "Effect on brain"
 type = "featured"

@@ -3,7 +3,7 @@ title: Secular books that can help
 date: 2019-05-14T08:46:10.000+00:00
 description: Books from secular sources that can help
 type: post
-image: images/masonary-post/post-9.jpg
+image: "/images/books-3733892_640.jpg"
 categories: []
 tags: []
 

@@ -16,14 +16,14 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "London UK"
-author = "PA2BA"
+author = "SM"
 author_image = "images/pa2ba.png"
 bio = "We are fighting porn."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
 email = "exmaple@ymail.com"
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-166514692-1"
 home = "Home"
 layout = "1"
 logo = "images/pa2ba.png"

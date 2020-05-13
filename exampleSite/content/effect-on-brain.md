@@ -5,7 +5,7 @@ description = "Porn kills brain"
 image = "/images/books-3733892_640.jpg"
 tags = ["research"]
 title = "Effect on brain"
-type = "featured"
+type = "post"
 
 +++
 Here is a list of research papers on Porn Addiction

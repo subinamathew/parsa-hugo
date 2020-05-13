@@ -13,7 +13,7 @@ tags:
 - Family
 
 ---
-I do noit want to write what brilliant people have already written. So click on the link below.
+I do not want to write what brilliant people have already written. So click on the link below.
 
 * [Help your family](https://www.challies.com/articles/the-porn-free-family-plan/) - Challies
 * [Confident: Helping Parents Navigate Online Exposure](https://www.covenanteyes.com/when-your-child-is-looking-at-porn/)

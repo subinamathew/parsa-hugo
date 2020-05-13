@@ -1,56 +1,27 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-4.jpg"
-categories: 
-  - "Article"
+title: Free Books To Fight Porn
+date: 2019-05-14T08:46:10.000+00:00
+description: Free books to help fight
+type: featured
+image: "/images/books-3733892_640.jpg"
+categories:
+- books
+- Article
 tags:
-  - "Photos"
-  - "Article"
+- books
+- free
+
 ---
+Here are some books that you can download for free.
+
+* **John Piper | Desiring God**
+  * [Don't follow your heart](https://www.desiringgod.org/books/dont-follow-your-heart)
+  * [Killjoys | The Seven Deadly Sins](https://www.desiringgod.org/books/killjoys)
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+* **Covenent Eyes Books**
+  * [Your Brain on Porn](https://learn.covenanteyes.com/your-brain-on-porn-1/?_ga=2.45562468.1338984552.1589404578-821046963.1589222901)
+  * [Hobbies & Habits](https://learn.covenanteyes.com/hobbies-and-habits/?_ga=2.19742712.1338984552.1589404578-821046963.1589222901)
+  * [Porn Circuit](https://learn.covenanteyes.com/porn-circuit/?_ga=2.252000201.1338984552.1589404578-821046963.1589222901)
+  * [Beauty can change your life](http://info.covenanteyes.com/transformed-by-beauty?_ga=2.252000201.1338984552.1589404578-821046963.1589222901)
+  * [More than Single: Finding Purpose Beyond Porn](https://www.covenanteyes.com/singles-guide/)

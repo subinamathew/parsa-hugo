@@ -27,5 +27,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/effect-on-brain.md
 - exampleSite/content/sermons-to-watch-to-shake-the-feeling.md
 - exampleSite/content/statistics.md

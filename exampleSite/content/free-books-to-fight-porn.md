@@ -1,27 +1,20 @@
 +++
-categories = ["books", "Article"]
+categories = ["Sermon"]
 date = 2019-05-14T08:46:10Z
-description = "Free books to help fight"
-draft = true
-image = "/images/books-3733892_640.jpg"
-tags = ["books", "free"]
-title = "Free Books To Fight Porn"
+description = "Click this if you want to watch porn now"
+image = "/images/examplesite/static/images/red-and-orange-fire-1558916.jpg"
+tags = []
+title = "Sermons to Watch To Shake That  Feeling"
 type = "featured"
 
 +++
-Here are some books that you can download for free.
+Ok, here is is some things to watch if you are at the place of temptation
 
-* **John Piper | Desiring God**
-  * [Don't follow your heart](https://www.desiringgod.org/books/dont-follow-your-heart)
-  * [Killjoys | The Seven Deadly Sins](https://www.desiringgod.org/books/killjoys)
-  * [Living in the light](https://www.desiringgod.org/books/living-in-the-light)
-* **Covenent Eyes Books**
-  * [Your Brain on Porn](https://learn.covenanteyes.com/your-brain-on-porn-1/?_ga=2.45562468.1338984552.1589404578-821046963.1589222901)
-  * [Hobbies & Habits](https://learn.covenanteyes.com/hobbies-and-habits/?_ga=2.19742712.1338984552.1589404578-821046963.1589222901)
-  * [Porn Circuit](https://learn.covenanteyes.com/porn-circuit/?_ga=2.252000201.1338984552.1589404578-821046963.1589222901)
-  * [Beauty can change your life](http://info.covenanteyes.com/transformed-by-beauty?_ga=2.252000201.1338984552.1589404578-821046963.1589222901)
-  * [More than Single: Finding Purpose Beyond Porn](https://www.covenanteyes.com/singles-guide/)
-* **9Marks**
-  * [The pastor and pornography](https://www.9marks.org/journal/the-pastor-and-pornography/)
-* **Challies**
-  * [Sexual Detox - Challies](https://www.challies.com/site-news/sexual-detox-is-now-available/) ([pdf](https://www.challies.com/wp-content/uploads/sexual-detox-a-guide-for-the-single-guy.pdf))
+# **MOVE AWAY**
+
+# **FROM YOUR**
+
+# **DEVICE NOW**
+
+* [Paul Washer: 1 min 51 sec](https://www.youtube.com/watch?v=ePt1daKYsB4)
+* [Paul Washer: - Jesus Died](https://www.youtube.com/watch?v=a11ASw5NRUw)

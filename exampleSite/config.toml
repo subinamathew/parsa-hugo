@@ -27,7 +27,7 @@ google_analitycs_id = "UA-166514692-1"
 home = "Home"
 layout = "1"
 logo = "images/pa2ba.png"
-mobile = "+90 000 333 22"
+mobile = "+447815939997"
 preloader = true
 search = true
 [params.instafeed]
@@ -63,14 +63,14 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/icpfuk/"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/icpfuk"
 icon = "ti-twitter-alt"
 [[params.social]]
-URL = "#"
-icon = "ti-linkedin"
+URL = "https://wa.me/447815939997"
+icon = "ti-mobile"
 [[params.social]]
 URL = "https://github.com/subinamathew/parsa-hugo"
 icon = "ti-github"

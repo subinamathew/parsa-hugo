@@ -2,7 +2,7 @@
 categories = ["Hot Key", "Sermon"]
 date = 2020-05-02T22:00:00Z
 description = "Click this if you want to watch porn now"
-image = "/images/examplesite/static/images/red-and-orange-fire-1558916.jpg"
+image = "/images/close-up-photo-of-person-holding-iphone-786009.jpg"
 tags = ["Hot Key"]
 title = "Sermons to Watch To Shake That  Feeling"
 type = "featured"

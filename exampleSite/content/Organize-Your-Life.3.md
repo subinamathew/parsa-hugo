@@ -25,3 +25,5 @@ Here are some books that you can download for free.
   * [Porn Circuit](https://learn.covenanteyes.com/porn-circuit/?_ga=2.252000201.1338984552.1589404578-821046963.1589222901)
   * [Beauty can change your life](http://info.covenanteyes.com/transformed-by-beauty?_ga=2.252000201.1338984552.1589404578-821046963.1589222901)
   * [More than Single: Finding Purpose Beyond Porn](https://www.covenanteyes.com/singles-guide/)
+* **9Marks**
+  * [The pastor and pornography](https://www.9marks.org/journal/the-pastor-and-pornography/)

@@ -17,8 +17,7 @@ Here are some books that you can download for free.
 * **John Piper | Desiring God**
   * [Don't follow your heart](https://www.desiringgod.org/books/dont-follow-your-heart)
   * [Killjoys | The Seven Deadly Sins](https://www.desiringgod.org/books/killjoys)
-
-
+  * [Living in the light](https://www.desiringgod.org/books/living-in-the-light)
 * **Covenent Eyes Books**
   * [Your Brain on Porn](https://learn.covenanteyes.com/your-brain-on-porn-1/?_ga=2.45562468.1338984552.1589404578-821046963.1589222901)
   * [Hobbies & Habits](https://learn.covenanteyes.com/hobbies-and-habits/?_ga=2.19742712.1338984552.1589404578-821046963.1589222901)

@@ -2,7 +2,7 @@
 categories = ["Research"]
 date = 2020-04-30T22:00:00Z
 description = "Stats"
-image = "/images/examplesite/static/images/photo-of-ipad-on-top-of-wooden-table-3734603.jpg"
+image = "/images/examplesite/static/images/chart-close-up-data-desk-590022.jpg"
 tags = ["Research"]
 title = "Statistics"
 type = "post"

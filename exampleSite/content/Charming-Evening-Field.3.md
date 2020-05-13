@@ -4,8 +4,13 @@ date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
 type: featured
 image: "/images/eyeglasses-beside-bowl-of-food-and-magazine-on-table-1438190.jpg"
-categories: []
-tags: []
+categories:
+- Tech
+- Parents
+tags:
+- Parents
+- Children
+- Family
 
 ---
 I do noit want to write what brilliant people have already written. So click on the link below.

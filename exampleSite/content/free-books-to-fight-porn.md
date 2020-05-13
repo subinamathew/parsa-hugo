@@ -2,7 +2,7 @@
 categories = ["Sermon"]
 date = 2019-05-14T08:46:10Z
 description = "Click this if you want to watch porn now"
-image = "/images/examplesite/static/images/red-and-orange-fire-1558916.jpg"
+image = "/images/examplesite/static/images/pensive-man-leaning-on-white-table-3777553.jpg"
 tags = []
 title = "Sermons to Watch To Shake That  Feeling"
 type = "featured"

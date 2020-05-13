@@ -26,3 +26,5 @@ Here are some books that you can download for free.
   * [More than Single: Finding Purpose Beyond Porn](https://www.covenanteyes.com/singles-guide/)
 * **9Marks**
   * [The pastor and pornography](https://www.9marks.org/journal/the-pastor-and-pornography/)
+* **Challies**
+  * [Sexual Detox - Challies](https://www.challies.com/site-news/sexual-detox-is-now-available/) ([pdf](https://www.challies.com/wp-content/uploads/sexual-detox-a-guide-for-the-single-guy.pdf))

@@ -15,10 +15,10 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+address = "London UK"
+author = "PA2BA"
+author_image = "images/pa2ba.png"
+bio = "We are fighting porn."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
@@ -26,7 +26,7 @@ email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "images/pa2ba.png"
 mobile = "+90 000 333 22"
 preloader = true
 search = true
@@ -72,5 +72,5 @@ icon = "ti-twitter-alt"
 URL = "#"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
+URL = "https://github.com/subinamathew/parsa-hugo"
 icon = "ti-github"

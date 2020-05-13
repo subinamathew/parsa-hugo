@@ -28,3 +28,4 @@ fields:
   description: 'type: post or featured'
 pages:
 - exampleSite/content/sermons-to-watch-to-shake-the-feeling.md
+- exampleSite/content/statistics.md

@@ -18,3 +18,4 @@ I do not want to write what brilliant people have already written. So click on t
 * [Help your family](https://www.challies.com/articles/the-porn-free-family-plan/) - Challies
 * [Confident: Helping Parents Navigate Online Exposure](https://www.covenanteyes.com/when-your-child-is-looking-at-porn/)
 * [Equipped ](http://info.covenanteyes.com/equipped-raising-godly-digital-natives-ebook?_ga=2.243208386.1338984552.1589404578-821046963.1589222901)- To teach your kids to say no
+* [https://www.xxxchurch.com/get-help/porn-addiction-help-for-parents](https://www.xxxchurch.com/get-help/porn-addiction-help-for-parents "https://www.xxxchurch.com/get-help/porn-addiction-help-for-parents")

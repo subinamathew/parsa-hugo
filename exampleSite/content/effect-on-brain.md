@@ -1,13 +1,13 @@
 ---
+title: Effects on brain
+date: 2019-05-14T08:46:10.000+00:00
+description: Porn kills brain
+type: post
+image: "/images/photo-of-head-bust-print-artwork-724994.jpg"
 categories:
 - research
 tags:
-- research
-date = 2020-05-03T22:00:00Z
-description = Porn kills brain
-image = "/images/chart-close-up-data-desk-590022.jpg"
-title = Effect on brain
-type = post
+- Research
 
 ---
 Here is a list of research papers on Porn Addiction

@@ -3,15 +3,13 @@ title: Statistics
 date: 2019-05-14T08:46:10.000+00:00
 description: Statistics
 type: post
-image: "/images/newspaper-berliner-closeup-21627.jpg"
+image: "/images/examplesite/static/images/newspaper-berliner-closeup-21627.jpg"
 categories:
 - research
 tags:
 - Research
 
 ---
-
-
 * Covenent Eyes
   * [https://www.covenanteyes.com/pornstats/](https://www.covenanteyes.com/pornstats/ "https://www.covenanteyes.com/pornstats/") (free book)
   * They have really good infographics 
@@ -33,4 +31,4 @@ tags:
 * [https://www.webroot.com/us/en/resources/tips-articles/internet-pornography-by-the-numbers](https://www.webroot.com/us/en/resources/tips-articles/internet-pornography-by-the-numbers "https://www.webroot.com/us/en/resources/tips-articles/internet-pornography-by-the-numbers")
 * [https://www.therecoveryvillage.com/process-addiction/porn-addiction/related/pornography-statistics/#gref](https://www.therecoveryvillage.com/process-addiction/porn-addiction/related/pornography-statistics/#gref "https://www.therecoveryvillage.com/process-addiction/porn-addiction/related/pornography-statistics/#gref")
 
-  > 
+  >

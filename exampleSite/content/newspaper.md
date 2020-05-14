@@ -1,13 +1,15 @@
-+++
-categories = ["research"]
-date = 2019-05-14T08:46:10Z
-description = "New paper report on Porn addiction"
-image = "/images/newspaper-berliner-closeup-21627.jpg"
-tags = ["research"]
-title = "News Papers"
-type = "post"
+---
+title: Newspaper
+date: 2019-05-14T08:46:10.000+00:00
+description: news articles
+type: post
+image: "/images/newspaper-berliner-closeup-21627.jpg"
+categories:
+- research
+tags:
+- Research
 
-+++
+---
 * Porn addiction in adolescents rising  
     
   Read more at: [https://www.deccanherald.com/metrolife/metrolife-lifestyle/porn-addiction-in-adolescents-rising-788369.html](https://www.deccanherald.com/metrolife/metrolife-lifestyle/porn-addiction-in-adolescents-rising-788369.html "https://www.deccanherald.com/metrolife/metrolife-lifestyle/porn-addiction-in-adolescents-rising-788369.html")

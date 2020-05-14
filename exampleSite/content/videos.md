@@ -10,5 +10,7 @@ tags:
 - Research
 
 ---
-
 * [Ted Talk - Eli Nash](https://www.youtube.com/watch?v=dbYWKVAeu6Y)
+* [Ted Talk - Gary Wilson](https://www.youtube.com/watch?v=wSF82AwSDiU)
+* [Ted Talk - Maria Ahlin](https://www.youtube.com/watch?v=DBTb71UzPmY)
+* [Ted Talk - Jack Fischer](https://www.youtube.com/watch?v=M9pPgIraoOM)

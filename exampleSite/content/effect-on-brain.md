@@ -1,4 +1,4 @@
-+++
+---
 categories = ["Research"]
 date = 2020-05-03T22:00:00Z
 description = "Porn kills brain"
@@ -7,7 +7,7 @@ tags = ["research"]
 title = "Effect on brain"
 type = "post"
 
-+++
+---
 Here is a list of research papers on Porn Addiction
 
 * [http://www.normadiconline.com/the/the-porn-trap-the-essential-guide-to-overcoming-problems-caused.pdf](http://www.normadiconline.com/the/the-porn-trap-the-essential-guide-to-overcoming-problems-caused.pdf "http://www.normadiconline.com/the/the-porn-trap-the-essential-guide-to-overcoming-problems-caused.pdf")

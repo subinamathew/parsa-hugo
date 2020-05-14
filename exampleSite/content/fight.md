@@ -13,7 +13,12 @@ tags:
 ---
 # Lets Fight It Together
 
+_Here are a few guidelines_ 
+
 ## 1. Admit you have a problem & that you are not strong enough
+
+* Our fight is not a fight of will power but a fight against evil. We may be weak to fight it always. We need the Lord at all times to fight this battle for us. Jesus Christ has defeated this enemy on the cross for us. It us to realise that and win the battle, but this is not a realisation of the mind but it also involves a heart that submits to the victory of Jesus and His rule over our brains and body, Jesus says that the Holy Spirit is send for such a reason. 
+* _Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words. And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God_[ (ESV Bible)]( http://esv.to/Romans8:26)
 
 ## 2. Create accountability
 
@@ -57,6 +62,8 @@ tags:
 * Use all forms possible to block porn
 * Use all manners possible to avoid random
 * Destroy all porn that is is saved
+* Move your pc to a more public area
+* Do not be on the phone after late hours when your brain is tired
 
 ## 5. Be careful little eyes
 
@@ -68,6 +75,7 @@ tags:
 
 * New hobbies
 * New friends
+* Go out of the place you are likely to be tempted at
 
 ## 7. Pray
 

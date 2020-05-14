@@ -5,7 +5,7 @@ tags:
 - research
 date = 2020-05-03T22:00:00Z
 description = Porn kills brain
-image = "/images/examplesite/static/images/chart-close-up-data-desk-590022.jpg"
+image = "/images/chart-close-up-data-desk-590022.jpg"
 title = Effect on brain
 type = post
 

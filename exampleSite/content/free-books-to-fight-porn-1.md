@@ -2,7 +2,7 @@
 categories = ["research"]
 date = 2019-05-14T08:46:10Z
 description = "New paper report on Porn addiction"
-image = "/images/examplesite/static/images/newspaper-berliner-closeup-21627.jpg"
+image = "/images/newspaper-berliner-closeup-21627.jpg"
 tags = ["research"]
 title = "News Papers"
 type = "post"

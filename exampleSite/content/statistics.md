@@ -3,6 +3,7 @@ date = 2020-04-30T22:00:00Z
 description = Stats
 title = Statistics
 type = post
+image = "/images/examplesite/static/images/newspaper-berliner-closeup-21627.jpg"
 categories:
 - research
 tags:

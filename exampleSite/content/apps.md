@@ -26,6 +26,7 @@ There are a ton of apps that can help you block the triggers. Here are a few tha
 * AdGuard | **iOS** | [App Store](https://apps.apple.com/app/apple-store/id1047223162 "Download") | Free
 * iPhone Content Restriction | iOS |[ Phone Setting](https://support.apple.com/sl-si/HT201304)s | Free
 * [Qustodio ](https://www.qustodio.com/en/)| Parenting App | Free & Paid
+* Porn Block | **iOS** |[ App Store](https://apps.apple.com/us/app/porn-block-plus/id1220328164) | Free
 
 **Mac**
 

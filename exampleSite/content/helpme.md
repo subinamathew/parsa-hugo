@@ -5,9 +5,9 @@ description: sermons to wake your brain
 type: featured
 image: "/images/red-and-orange-fire-1558916.jpg"
 categories:
-- research
+- sermon
 tags:
-- Research
+- sermon
 
 ---
 Ok, here is is some things to watch if you are at the place of temptation

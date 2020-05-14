@@ -1,15 +1,17 @@
 ---
-date = 2020-04-30T22:00:00Z
-description = Stats
-title = Statistics
-type = post
-image = "/images/examplesite/static/images/newspaper-berliner-closeup-21627.jpg"
+title: Statistics
+date: 2019-05-14T08:46:10.000+00:00
+description: Statistics
+type: post
+image: "/images/newspaper-berliner-closeup-21627.jpg"
 categories:
 - research
 tags:
-- research
+- Research
 
 ---
+
+
 * Covenent Eyes
   * [https://www.covenanteyes.com/pornstats/](https://www.covenanteyes.com/pornstats/ "https://www.covenanteyes.com/pornstats/") (free book)
   * They have really good infographics 

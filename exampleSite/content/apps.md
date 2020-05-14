@@ -12,6 +12,7 @@ tags:
 - Technology
 
 ---
+
 There are a ton of apps that can help you block the triggers. Here are a few that have been tested.
 
 **Android Apps**

@@ -29,4 +29,14 @@ tags:
 * **What God expects**
   * Initmacy with God
   * Intimacy with Spouse (if married)
-* 
+* **What Porn bring to life**
+  * lust of the eye: i can watch anything
+  * lust of the flesh: i can enjoy myself
+  * pride of life: i am the master
+* **Know the reality**
+  * We live in such a world
+  * We can be tempted
+* **How to Escape**
+  * Indulge in the word
+  * Take Action - move away
+  * Die daily - repent daily - be born again daily

@@ -11,7 +11,7 @@ tags:
 
 ---
 Here is a list of Christian books on pornography
-* Porn Again - Mark Discroll [Buy] (
+* Porn Again - Mark Discroll [Buy] (https://g.co/kgs/HPT1zm) 
 
 * Finally Free - Heath Lambert "It is possible to be free from pornography." ([Review](https://www.challies.com/book-reviews/finally-free/)) [Buy](https://books.google.de/books/about/Finally_Free.html?id=nQWdWY6qDYsC)
 * [Wired for Initimacy - William M. Struthers](https://books.google.de/books/about/Wired_for_Intimacy.html?id=1Nqv0-pmpMS5oC) Struthers explores the important link between pornography and biology.

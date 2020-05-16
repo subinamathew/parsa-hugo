@@ -10,6 +10,10 @@ tags:
 - Sermon
 
 ---
+
+Watch the sermon   
+ {{< youtube 8dm_W0AwFrk >}}
+
 **Scripture: 2 Timothy 3:1-4**
 
 * **Intro**

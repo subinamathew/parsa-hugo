@@ -10,9 +10,10 @@ tags:
 - Sermon
 
 ---
+Watch the sermon  
+{{< youtube 8dm_W0AwFrk >}}
 
-Watch the sermon   
- {{< youtube 8dm_W0AwFrk >}}
+[PA2BA.pdf](images/PA2BA.pdf "PA2BA.pdf")
 
 **Scripture: 2 Timothy 3:1-4**
 

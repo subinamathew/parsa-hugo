@@ -2,7 +2,7 @@
 title: Statistics
 date: 2019-05-14T08:46:10.000+00:00
 description: Statistics
-type: post
+type: featured
 image: "/images/chart-close-up-data-desk-590022.jpg"
 categories:
 - research

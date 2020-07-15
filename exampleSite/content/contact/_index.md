@@ -5,8 +5,14 @@ description: Contact Us
 image: images/contact.jpg
 
 ---
+## RestoringEden.de
+
+Contact us on [http://restoringeden.de/](https://restoringeden.de/ "https://restoringeden.de/")
+
+RestoringEden.de is a family based organisation helping family life, children and theology based in Germany.
+
+## ICPF
+
+Inter Collegiate Prayer Fellowship is a Christian Organisation reaching students internationally.
+
 Contact us on [http://www.icpfuk.com/](http://www.icpfuk.com/ "http://www.icpfuk.com/")
-
-With regard to GDPR, if you enter your email address here, it means that you want us to have the email address.
-
-Email us on :[ icpfuk@gmail.com](mailto:icpfuk@gmail.com)

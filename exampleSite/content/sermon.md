@@ -2,7 +2,7 @@
 title: PA2BA - Anil Alexander
 date: 2020-05-14T18:00:10.000+00:00
 description: Sermon notes from Anil Alexander
-type: featured
+type: post
 image: "/images/grey-microphone-2097428.jpg"
 categories:
 - Sermon

@@ -15,14 +15,14 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "London UK"
+address = "UK & Germany"
 author = "SM"
 author_image = "images/pa2ba.png"
 bio = "We are fighting porn."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "icpfuk@gmail.com"
+email = "samk.fish@gmail.com"
 google_analitycs_id = "UA-166514692-1"
 home = "Home"
 layout = "1"
@@ -72,8 +72,8 @@ icon = "ti-twitter-alt"
 URL = "https://wa.me/447815939997"
 icon = "ti-mobile"
 [[params.social]]
-URL = "https://github.com/subinamathew/parsa-hugo"
-icon = "ti-github"
-[[params.social]]
 URL = "http://www.icpfuk.com/"
 icon = "ti-new-window"
+[[params.social]]
+URL = "http://restoringeden.de"
+icon = "ti-headphone

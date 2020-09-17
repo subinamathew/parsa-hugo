@@ -7,11 +7,15 @@ image: images/contact.jpg
 ---
 ## RestoringEden.de
 
-Contact us on [http://restoringeden.de/](https://restoringeden.de/ "https://restoringeden.de/")
+Contact us on [https://restoringeden.de/](https://restoringeden.de/ "https://restoringeden.de/")
 
 RestoringEden.de is a family based organisation helping family life, children and theology based in Germany.
 
+Via Facebook on [https://r2h.restoringeden.de/](https://r2h.restoringeden.de/ "https://r2h.restoringeden.de/")
+
 ## ICPF
+
+Our last public meeting was done with the help of ICPF UK
 
 Inter Collegiate Prayer Fellowship is a Christian Organisation reaching students internationally.
 

@@ -16,7 +16,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "UK & Germany"
-author = "SM"
+author = "S Mathew"
 author_image = "images/pa2ba.png"
 bio = "We are fighting porn."
 contact_form_action = "#"
@@ -63,16 +63,13 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "https://www.facebook.com/icpfuk/"
+URL = "https://www.facebook.com/renewedtohonor/"
 icon = "ti-facebook"
 [[params.social]]
-URL = "https://twitter.com/icpfuk"
+URL = "https://twitter.com/renewedtohonor"
 icon = "ti-twitter-alt"
 [[params.social]]
-URL = "https://wa.me/447815939997"
-icon = "ti-mobile"
-[[params.social]]
-URL = "http://www.icpfuk.com/"
+URL = "https://r2h.restoringedem.de/"
 icon = "ti-new-window"
 [[params.social]]
 URL = "http://restoringeden.de"
